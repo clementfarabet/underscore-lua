@@ -1,7 +1,7 @@
 package = "underscore"
 version = "dev-1"
 source = {
-  url = "git://github.com/jtarchie/underscore-lua.git"
+  url = "git://github.com/clementfarabet/underscore-lua.git"
 }
 description = {
   summary = "Underscore is a utility-belt library for Lua",
